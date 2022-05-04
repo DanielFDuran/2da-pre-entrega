@@ -1,0 +1,19 @@
+/* font-family: 'Noto Sans Display', sans-serif; */
+/*  font-family: 'Roboto', sans-serif;*/
+
+h1 {
+  text-align: center;
+  padding: 20px;
+  font-family: "Roboto", sans-serif;
+  font-size: 95px;
+}
+
+/* h2 */
+h2 {
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+}
+/* footer */
+footer {
+  background-color: #b1b5b8fa;
+}
